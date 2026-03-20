@@ -44,7 +44,7 @@ NIT Sikkim | CGPA: 8.47
 ## 📫 Connect
 
 * 📧 [satyaranjanb821@gmail.com](mailto:satyaranjanb821@gmail.com)
-* 💼 LinkedIn: (https://www.linkedin.com/in/satya-ranjan-barik-7966b0317/)
+* 💼 LinkedIn: https://www.linkedin.com/in/satya-ranjan-barik-7966b0317/
 
 ---
 
