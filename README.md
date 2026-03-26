@@ -15,8 +15,8 @@ NIT Sikkim | CGPA: 8.47
 
 * 💻 Building scalable **MERN applications**
 * 🤖 Worked on **Deep Learning (U-Net, ML systems)**
+* 🧠 Exploring **LLMs and Deep Learning**
 * 📊 Strong in **DSA, Backend, System Design**
-* 🎯 Targeting **GSoC & SDE Internships**
 
 ---
 
@@ -27,17 +27,28 @@ NIT Sikkim | CGPA: 8.47
 
 ---
 
-## 🧠 Key Projects
+## 🛠️ Skills
 
-* 🟢 **ChatterVerse** – Real-time chat app (MERN + Socket.io)
-* 🟢 **Women Grievance System** – Full-stack secure platform
-* 🟢 **Movie Recommender** – ML + Streamlit
+**Languages:**  
+`C++` `Python` `Java` `JavaScript`
 
----
+**Frontend:**  
+`React.js` `HTML` `CSS` `Tailwind CSS` `Bootstrap`
 
-## ⚙️ Tech Stack
+**Backend:**  
+`Node.js` `Express.js` `REST APIs` `JWT Auth`
 
-`C++` `Python` `JavaScript` `React` `Node.js` `MongoDB` `MySQL`
+**Databases:**  
+`MongoDB` `MySQL`
+
+**Core CS:**  
+`DSA` `Operating Systems` `DBMS` `Computer Networks` `OOP`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `Linux` `Docker (Basics)` `Postman` `VS Code`
+
+**AI/ML:**  
+`Machine Learning` `Deep Learning` `TensorFlow` `Scikit-learn`
 
 ---
 
