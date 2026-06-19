@@ -6,7 +6,7 @@
 
 ```yaml
 Full Stack Developer | AI Engineer
-NIT Sikkim | CGPA: 8.47
+NIT Sikkim | CGPA: 8.44
 ```
 
 ---
